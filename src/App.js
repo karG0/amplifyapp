@@ -87,6 +87,7 @@ function App() {
           ))
         }
       </div>
+      
       <AmplifySignOut />
     </div>
   );
